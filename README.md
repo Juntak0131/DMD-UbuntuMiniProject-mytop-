@@ -137,7 +137,7 @@ make
 ---
 
 ## 📸 실행 화면 
-
+<img src="https://github.com/user-attachments/assets/4e367f79-207e-4163-8d8f-82f0dd2d080b"  width = "1000"/>
 
 
 ---
@@ -149,15 +149,3 @@ make
 - 운영체제 레벨의 시스템 데이터 파싱 경험  
 - ncurses 기반 UI 개발 능력 향상  
 - signal을 통한 프로세스 제어 구현 경험 축적  
-
----
-
-## 👤 Author
-- **Your Name**
-- GitHub: https://github.com/your-id  
-- Email: your_email@example.com
-
----
-
-## 📄 License
-MIT License
